@@ -9,4 +9,4 @@ I used to study engineering and I changed my major to CS when I learn my master 
 Looking forward to learn intersting things!
 
 This is a **3D** me, in 3D world :D
-<img src="assets/me.png" alt="me" width="50%" />
+<img src="https://github.com/gtb-2022-wang-yujue/profile/assets/me.png" alt="me" width="50%" />
